@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/uzeltinger/grupodespo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://uzel@bitbucket.org/leoperego/app-android-grupo-despo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Android\AndroidStudioProjects\grupodespo\gitv1" />
+    <option name="cloneParentDir" value="E:\Android\AndroidStudioProjects\grupodespo\testdesdegit_v1" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
